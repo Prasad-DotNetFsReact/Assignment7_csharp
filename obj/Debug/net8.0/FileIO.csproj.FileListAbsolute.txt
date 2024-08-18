@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\assignment_7\FileIO\bin\Debug\net8.0\FileIO.exe
+C:\Users\Admin\source\repos\assignment_7\FileIO\bin\Debug\net8.0\FileIO.deps.json
+C:\Users\Admin\source\repos\assignment_7\FileIO\bin\Debug\net8.0\FileIO.runtimeconfig.json
+C:\Users\Admin\source\repos\assignment_7\FileIO\bin\Debug\net8.0\FileIO.dll
+C:\Users\Admin\source\repos\assignment_7\FileIO\bin\Debug\net8.0\FileIO.pdb
+C:\Users\Admin\source\repos\assignment_7\FileIO\obj\Debug\net8.0\FileIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\assignment_7\FileIO\obj\Debug\net8.0\FileIO.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\assignment_7\FileIO\obj\Debug\net8.0\FileIO.AssemblyInfo.cs
+C:\Users\Admin\source\repos\assignment_7\FileIO\obj\Debug\net8.0\FileIO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\assignment_7\FileIO\obj\Debug\net8.0\FileIO.dll
+C:\Users\Admin\source\repos\assignment_7\FileIO\obj\Debug\net8.0\refint\FileIO.dll
+C:\Users\Admin\source\repos\assignment_7\FileIO\obj\Debug\net8.0\FileIO.pdb
+C:\Users\Admin\source\repos\assignment_7\FileIO\obj\Debug\net8.0\FileIO.genruntimeconfig.cache
+C:\Users\Admin\source\repos\assignment_7\FileIO\obj\Debug\net8.0\ref\FileIO.dll
